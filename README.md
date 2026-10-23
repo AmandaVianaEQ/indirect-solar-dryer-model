@@ -2,7 +2,7 @@
 
 Simplified physical model of an indirect natural-convection solar dryer, applied to the drying of banana slices. Implemented in Python as a differential-algebraic (DAE) system.
 
-Developed during a research internship at the LaTEP (Laboratoire de Thermique, Énergétique et Procédés, Université de Pau et des Pays de l'Adour), July–September 2026.
+Developed during a research internship at the LaTEP (Laboratoire de Thermique, Énergétique et Procédés), July–September 2026.
 
 <h2>Context</h2>
 
